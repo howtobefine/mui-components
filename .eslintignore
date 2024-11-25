@@ -1,0 +1,8 @@
+jest.config.cjs
+node_modules
+assets
+public
+dist
+static
+*.d.ts
+.eslintrc.cjs
