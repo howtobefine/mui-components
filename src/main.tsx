@@ -1,6 +1,7 @@
 import { createRoot } from "react-dom/client"
 import { ThemeProvider } from "@mui/material/styles"
 import theme from "@/theme"
+import "@fontsource/ubuntu"
 import "@/index.css"
 import App from "@/App"
 

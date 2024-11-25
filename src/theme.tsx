@@ -6,9 +6,13 @@ const theme = createTheme({
       main: "#CB4042",
     },
     secondary: {
-      main: "#F2F2F2",
+      main: "#3C67D3",
     },
   },
+  typography: {
+    fontFamily: "Ubuntu, sans-serif",
+  },
+  components: {},
 })
 
 export default theme
