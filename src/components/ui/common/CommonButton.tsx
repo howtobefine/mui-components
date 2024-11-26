@@ -21,7 +21,7 @@ export const CommonButton: FC<CommonButtonProps> = ({
       fontSize: 14,
       lineHeight: 1,
       borderRadius: 1,
-      paddingY: 1.25,
+      paddingY: 1.5,
       ...sx,
     }}
   >
